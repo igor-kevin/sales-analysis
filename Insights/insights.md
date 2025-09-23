@@ -4,5 +4,5 @@
 * 4 dos 5 produtos mais vendidos são óleo.
 * As categorias mais vendidas são: Oleo, Retentor(RET.), Parafuso(PARAF.), Lampada(LAMP.) e Junta.
 * As categorias que são menos vendidas podem ser encaixadas em outras categorias mais frequêntes, como x-pneu provavelmente é PNEU, LAMPADA pode ir para LAMP.(mais frequente). 
-* A grande parte das peças são 
+* A grande parte das peças são vendidas a uma única unidade, ou seja, a compra de muitos exemplares da mesma peça é raro. [(Sugerir um desconto para compra de 2 peças, como dois óleos, ou duas lampadas)]
 * As 5 melhores categorias de faturamento, em ordem, são: *Pneu*, *Kit*, *Oleo*, *Bateria* e *Cilindro*
