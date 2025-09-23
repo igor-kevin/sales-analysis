@@ -8,4 +8,4 @@
 * As 5 melhores categorias de faturamento, em ordem, são: *Pneu*, *Kit*, *Oleo*, *Bateria* e *Cilindro*
 * Os funcionários *3* e *4* foram os que mais realizaram vendas.
 * Os funcionários *9* e *0* tem em suas vendas produtos mais caros.
-* Apesar do número de vendas do tipo *P* ser o dobro do tipo *C*, o valor faturado nos dois tipos é bem próximo. Imaginando que o tipo *C* é **Crediário** e *P* sendo **Pedido** imaginamos que os clientes com crediário o utilizam para comprar peças mais caras e divir.
+* Apesar do número de vendas do tipo *P* ser o dobro do tipo *C*, o valor faturado nos dois tipos é bem próximo. Assumindo que o tipo *C* é **Crediário** e *P* sendo **Pedido**, pode-se pensar que os clientes com crediário utiliza-no para comprar peças mais caras e dividir em parcelas.
