@@ -6,3 +6,6 @@
 * As categorias que são menos vendidas podem ser encaixadas em outras categorias mais frequêntes, como x-pneu provavelmente é PNEU, LAMPADA pode ir para LAMP.(mais frequente). 
 * A grande parte das peças são vendidas a uma única unidade, ou seja, a compra de muitos exemplares da mesma peça é raro. [(Sugerir um desconto para compra de 2 peças, como dois óleos, ou duas lampadas)]
 * As 5 melhores categorias de faturamento, em ordem, são: *Pneu*, *Kit*, *Oleo*, *Bateria* e *Cilindro*
+* Os funcionários *3* e *4* foram os que mais realizaram vendas.
+* Os funcionários *9* e *0* tem em suas vendas produtos mais caros.
+* Apesar do número de vendas do tipo *P* ser o dobro do tipo *C*, o valor faturado nos dois tipos é bem próximo. Imaginando que o tipo *C* é **Crediário** e *P* sendo **Pedido** imaginamos que os clientes com crediário o utilizam para comprar peças mais caras e divir.
