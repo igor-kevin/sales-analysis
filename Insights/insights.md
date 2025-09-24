@@ -11,3 +11,5 @@
 * Apesar do número de vendas do tipo *P* ser o dobro do tipo *C*, o valor faturado nos dois tipos é bem próximo. Assumindo que o tipo *C* é **Crediário** e *P* sendo **Pedido**, pode-se pensar que os clientes com crediário utilizam-no para comprar peças mais caras e dividir em parcelas.
 * Durante todo o período de dados, o nosso produto `OLEO SELENIA SPRINTA 4T 20W-50` é TOP 1 tanto em **Quantidade vendida** quanto em **Faturamento**
 * Foram no total 11308 vendas.
+* O pandas não consegue detectar a frequência da vendas com ´df['Data'].dt.freq´, indicando possíveis falhas nas datas, ou dias faltantes. Para uma análise temporal precisaremos arrumar os dados e possivelmente fixar uma frequência. De fato encontramos dias que não há vendas registradas.
+* Precisamos fazer uma análise mais profunda para entender a sazonalidade e as tendencias de curto e longo prazo.
