@@ -9,3 +9,5 @@
 * Os funcionários *3* e *4* foram os que mais realizaram vendas.
 * Os funcionários *9* e *0* tem em suas vendas produtos mais caros.
 * Apesar do número de vendas do tipo *P* ser o dobro do tipo *C*, o valor faturado nos dois tipos é bem próximo. Assumindo que o tipo *C* é **Crediário** e *P* sendo **Pedido**, pode-se pensar que os clientes com crediário utilizam-no para comprar peças mais caras e dividir em parcelas.
+* Durante todo o período de dados, o nosso produto `OLEO SELENIA SPRINTA 4T 20W-50` é TOP 1 tanto em **Quantidade vendida** quanto em **Faturamento**
+* Foram no total 11308 vendas.
