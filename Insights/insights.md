@@ -13,3 +13,11 @@
 * Foram no total 11308 vendas.
 * O pandas não consegue detectar a frequência da vendas com ´df['Data'].dt.freq´, indicando possíveis falhas nas datas, ou dias faltantes. Para uma análise temporal precisaremos arrumar os dados e possivelmente fixar uma frequência. De fato encontramos dias que não há vendas registradas.
 * Precisamos fazer uma análise mais profunda para entender a sazonalidade e as tendencias de curto e longo prazo.
+* Durante o pedíodo de 2020 e 2021 as vendas alavancaram bastante.
+* Desde 2022 até hoje, as vendas vem em queda. Por quê?
+* Conseguimos detectar uma sazonalidade anual.
+* Durante o período de dados que temos, conseguimos ver que o melhores meses tendem a ser de 7~10 (Julho a Outubro). Depois vamos ver quais as categorias/peças que mais sem em cada perído, assim teremos uma noção se será algo relacionado a clima, festas etc.
+* Os piores meses de venda são os primeiros 4, ou seja (Janeiro à Abril)
+* Sendo melhor mês `Agosto`, e pior mês `Fevereiro`.
+* Entre 2020 e 2022 a loja teve um período de renda muito acima. Vamos analisar também.
+* Separar por ano quais peças foram fundamentais para o faturamento, quais peças pararam de vender? Quais tem crescido a venda?
