@@ -21,3 +21,4 @@
 * Sendo melhor mês `Agosto`, e pior mês `Fevereiro`.
 * Entre 2020 e 2022 a loja teve um período de renda muito acima. Vamos analisar também.
 * Separar por ano quais peças foram fundamentais para o faturamento, quais peças pararam de vender? Quais tem crescido a venda?
+* Segunda e Sexta são os dias mais movimentados .
