@@ -21,4 +21,11 @@
 * Sendo melhor mês `Agosto`, e pior mês `Fevereiro`.
 * Entre 2020 e 2022 a loja teve um período de renda muito acima. Vamos analisar também.
 * Separar por ano quais peças foram fundamentais para o faturamento, quais peças pararam de vender? Quais tem crescido a venda?
-* Segunda e Sexta são os dias mais movimentados .
+* Segunda e Sexta são os dias mais movimentados.
+* O ticket médio é de R$52,97.
+* Quanto a categorias com maior rotatividade e venda de estoque temos 9 produtos que aparecem nos 11 anos no top 10: `ARRUELA`, `CABO`, `JUNTA`, `LAMP.`, `OLEO`, `PARAF`, `RET.`, `PORCA`, `ROLAM`.
+* Para o valor de faturamento total, temos apenas 5 categorias presentes em 11 anos, sendo elas `BATERIA`, `CILINDRO`, `OLEO`, `KIT` e `PNEU`. Nos anos de 2018 até 2024 são ainda consistentemente top 5 faturamento da loja. As outras categorias que devem ser mencionadas também para o top 10 são `CABO`, `CAPACETE`, `PISTAO/ANEL`, `CAMARA` e `ROLAM.`.
+* Com essas duas noções anteriores podemos ver que `OLEO`, `CABO` e `ROLAM.` são importantes sempre ter em estoque, pois tem rotatividade alta e também influenciam no faturamento.
+* O faturamento da loja depende em média, 50% dos produtos top 10.
+* A categoria `CONJUNTO` aparece no top de faturamento nos meses 4,5 e 7. São os meses de chuva.
+* Dos meses 5 à 9 a categoria `KIT` aparece. São meses de chuva. Além disso a categoria `BORR.` aparece nos meses 12 e 1 o que pode indicar que existe uma razão, já que são meses subsequentes.
