@@ -29,4 +29,6 @@
 * O faturamento da loja depende em média, 50% dos produtos top 10.
 * A categoria `CONJUNTO` aparece no top de faturamento nos meses 4,5 e 7. São os meses de chuva.
 * Dos meses 5 à 9 a categoria `KIT` aparece. São meses de chuva. Além disso a categoria `BORR.` aparece nos meses 12 e 1 o que pode indicar que existe uma razão, já que são meses subsequentes.
-* TODO prox: mudar o heatmap da função de análise de categoria para variação de vendas ao invés do valor fixo
+* TODO prox: mudar o heatmap da função de análise de categoria para variação de vendas ao invés do valor fixo (Ao fazer percebi que o heatmap vai comparar as vendas de um mês em comparação com o mês passado, o que quase inviabiliza a análise dos melhores meses)
+* Para a análise de mais de um mês de aumento de vendas é necessário pensar em alguma forma de análise conjunta dos meses. (Talvez observar aumentos grandes e sequencias de quedas muito pequenas indiquem meses bons e claro, crescentes conjuntas)
+
