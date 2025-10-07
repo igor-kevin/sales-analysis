@@ -18,3 +18,18 @@ Entregas: dataset limpo e dicionário dos dados, relatório dos achados.
 
 
 ## Parte 1
+Análise explicativa e preditiva
+Entender os padrões de vendas conjunta.
+* Análise conjunta
+    - Produtos frequentemente vendidos juntos
+* Análise de preço x venda
+* Análise de desempenho anual de categorias
+* Modelagem preditiva simples
+
+Entregas: Modelos preditivos, atualização do relatório com novos achados.
+
+
+## Parte 2
+Criação do dashboard em PowerBI
+
+Entregas: Dashboard
