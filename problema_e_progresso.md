@@ -14,7 +14,7 @@ EDA dos dados para entender "comportamento" dos dados e ter mais facilidade em d
 * Bivariada (Relações)
 * Análise Temporal
 
-Entregas: dataset limpo e dicionário dos dados, resumos dos achados.
+Entregas: dataset limpo e dicionário dos dados, relatório dos achados.
 
 
 ## Parte 1
