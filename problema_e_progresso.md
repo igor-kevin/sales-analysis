@@ -1,6 +1,6 @@
 # Estruturação do projeto e das entregas
 
-## Parte 0
+## Parte 1
 Ajuste do dataset e garantia de dados limpos.
 EDA dos dados para entender "comportamento" dos dados e ter mais facilidade em definir KPI's
 * Análise da estrutura dos dados (Dados Faltantes)
@@ -17,7 +17,7 @@ EDA dos dados para entender "comportamento" dos dados e ter mais facilidade em d
 Entregas: dataset limpo e dicionário dos dados, relatório dos achados.
 
 
-## Parte 1
+## Parte 2
 Análise explicativa e preditiva
 Entender os padrões de vendas conjunta.
 * Análise conjunta
@@ -29,7 +29,7 @@ Entender os padrões de vendas conjunta.
 Entregas: Modelos preditivos, atualização do relatório com novos achados.
 
 
-## Parte 2
+## Parte 3
 Criação do dashboard em PowerBI
 
 Entregas: Dashboard
