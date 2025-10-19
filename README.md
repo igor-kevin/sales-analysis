@@ -49,7 +49,7 @@ As perguntas de que guiaram essa análise foram:
 - Os meses de **junho a outubro** apresentam melhor desempenho, enquanto **janeiro a março** são mais fracos.
 - O **Ticket Médio** de uma venda em crediário é **três vezes** o valor do ticket médio da venda normal.
 
-![Exemplo de Gráfico: Faturamento por Categoria](graphs\Faturamento_categoria.png)
+![Exemplo de Gráfico: Faturamento por Categoria](https://raw.githubusercontent.com/igor-kevin/sales-analysis/refs/heads/main/graphs/Faturamento_categoria.png)
 
 **Tendências temporais**
 
@@ -57,7 +57,7 @@ As perguntas de que guiaram essa análise foram:
 - Foi identificada uma **sazonalidade anual bem definida**, com picos entre julho e outubro.
 
 
-![Gráfico do comportamento Sazonal](graphs\Sazonalidade.png)
+![Gráfico do comportamento Sazonal](https://raw.githubusercontent.com/igor-kevin/sales-analysis/refs/heads/main/graphs/Sazonalidade.png)
 
 ---
 ##  Tecnologias Utilizadas
